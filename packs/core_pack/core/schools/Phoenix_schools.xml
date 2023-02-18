@@ -13,7 +13,7 @@
       <Skill id="kyujutsu" rank="1"/>
       <Skill id="lore_theology" rank="1"/>
       <Skill emphases="Void Recovery" id="meditation" rank="1"/>
-      <Skill id="spears" rank="1"/>
+      <Skill id="polearms" rank="1"/>
       <PlayerChoose rank="1">
         <Wildcard>bugei</Wildcard>
         <Wildcard>high</Wildcard>
